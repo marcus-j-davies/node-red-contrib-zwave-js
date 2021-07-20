@@ -48,7 +48,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: nrversion
     attributes:
       label: Node-RED Version
       description: What version of Node-RED are you running?
