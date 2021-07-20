@@ -28,7 +28,7 @@ The node is straightforward to use, and removes all the complexities that you wo
 
  ![Image](./resources/Demo.png)  
 
-- [Wiki](./wiki)  
+- [Wiki](./wiki/getting-started)  
 - [Change Log](./CHANGELOG.md)  
 - [Z-Wave JS Documentation](https://zwave-js.github.io/node-zwave-js/#/)  
 
