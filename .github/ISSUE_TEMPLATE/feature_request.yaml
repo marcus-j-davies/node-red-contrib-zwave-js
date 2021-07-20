@@ -18,7 +18,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: feature-description
+    id: feature_description
     attributes:
       label: What is your idea?
       description: "Please describe your feature here:"
@@ -47,7 +47,7 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: version
+    id: nr_version
     attributes:
       label: Node-RED Version
       description: What version of Node-RED are you running?
