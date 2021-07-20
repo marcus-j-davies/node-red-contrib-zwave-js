@@ -1,7 +1,7 @@
 name: Feature Request
 description: Suggest an idea for this project.
 title: "[Feature]: "
-labels: [feature]
+labels: [enhancement]
 assignees:
   - marcus-j-davies
 body:
