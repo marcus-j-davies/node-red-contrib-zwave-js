@@ -1,5 +1,13 @@
   # node-red-contrib-zwave-js Change Log
 
+  - 5.0.0 **Breaking Changes**
+    - Min Node JS Version is now **v12.22.2**
+    - The legacy API has now been removed (see Change Log: 4.0.0)
+    - Migrated to Z-Wave JS 8.0.0
+    - Node List in config editor is now grouped by location
+    - Device Node in **Multicast** mode, can now use the **CCAPI**
+      Note: Multicast is limited to **set** type commands (as should be)
+
   - 4.1.0
     - Bug fixes on **zwave-device** node 
     - **zwave-device** node now has the following modes
