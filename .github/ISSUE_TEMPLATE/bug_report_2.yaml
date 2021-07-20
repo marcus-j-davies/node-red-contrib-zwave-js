@@ -23,7 +23,7 @@ body:
       label: What happened?
       description: Please describe observed behavior and expected behavior?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: "A bug happened! Please describe the problem, drag pictures here if they are helpful to your story."
     validations:
       required: true
   - type: textarea
@@ -32,7 +32,7 @@ body:
       label: How to reproduce?
       description: Steps to reproduce the behavior.
       placeholder: Reproduce!
-      value: "1: "
+      value: "Please list steps to reproduce. If the problem is hardware-specific, please list which devices are affected."
     validations:
       required: true
   - type: dropdown
