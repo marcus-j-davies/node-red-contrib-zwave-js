@@ -28,10 +28,10 @@ The node is straightforward to use, and removes all the complexities that you wo
 
  ![Image](./Demo.png)  
 
-[&#x1F517;Documentation / Wiki](./wiki)
-[&#x1F517;Change Log](./CHANGELOG.md)
+ - [&#x1F517;Documentation &amp; Wiki](./wiki)  
+ - [&#x1F517;Change Log](./CHANGELOG.md)
 
-  <!--
+<!--
 
 Install this node via the Node Red palette menu (See [Home Assistant Install](#home-assistant-install) if this applies to you),  
 and you have Z-Wave support in Node Red.
