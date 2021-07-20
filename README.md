@@ -16,7 +16,7 @@ If you want a fully featured Z-Wave runtime in your node-red instance, look no f
     - Network Map
     - Network Actions (Include, Exclude, Heal etc etc)
   - 2 Different API models, catering for both experienced and inexperienced users.
-  - Use one node for your entire network, or a node per Z-Wave device.
+  - Use one node for your entire network, or a node per Z-Wave device (or a group of devices)
   - Supports multicast to send commands to mulltiple nodes at the same time.
   - Access to all supported CC's provided by Z-Wave JS.
 
@@ -25,6 +25,13 @@ Z-Wave JS is actively  maintained, fast and supports secure (S0) devices - S2 is
 
 It offers a massive amount of flexibility and is packed full of features.   
 The node is straightforward to use, and removes all the complexities that you would otherwise need to deal with.
+
+ ![Image](./Demo.png)  
+
+[&#x1F517;Documentation / Wiki](./wiki)
+[&#x1F517;Change Log](./CHANGELOG.md)
+
+  <!--
 
 Install this node via the Node Red palette menu (See [Home Assistant Install](#home-assistant-install) if this applies to you),  
 and you have Z-Wave support in Node Red.
@@ -309,3 +316,5 @@ return Message
 ## Version History  
 
  - Now [Here](./CHANGELOG.md)
+
+ -->
