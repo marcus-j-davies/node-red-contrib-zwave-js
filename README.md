@@ -1,4 +1,4 @@
-![Image](./ReadMe.png)  
+![Image](./resources/ReadMe.png)  
 
 # node-red-contrib-zwave-js
 
@@ -20,16 +20,18 @@ If you want a fully featured Z-Wave runtime in your node-red instance, look no f
   - Supports multicast to send commands to mulltiple nodes at the same time.
   - Access to all supported CC's provided by Z-Wave JS.
 
-**node-red-contrib-zwave-js** is based on  [&#x1F517;Z-Wave JS](https://zwave-js.github.io/node-zwave-js/#/).  
+**node-red-contrib-zwave-js** is based on  [&#x1F517;Z-Wave JS](https://github.com/zwave-js/node-zwave-js).  
 Z-Wave JS is actively  maintained, fast and supports secure (S0) devices - S2 is in the works.
 
 It offers a massive amount of flexibility and is packed full of features.   
 The node is straightforward to use, and removes all the complexities that you would otherwise need to deal with.
 
- ![Image](./Demo.png)  
+ ![Image](./resources/Demo.png)  
 
- - [&#x1F517;Documentation &amp; Wiki](./wiki)  
- - [&#x1F517;Change Log](./CHANGELOG.md)
+- [&#x1F517;Wiki](./wiki)  
+- [&#x1F517;Change Log](./CHANGELOG.md)  
+- [&#x1F517;Z-Wave JS Documentation](https://zwave-js.github.io/node-zwave-js/#/)  
+
 
 <!--
 
